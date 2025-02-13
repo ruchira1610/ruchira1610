@@ -23,6 +23,7 @@ Welcome to my GitHub profile! I'm a mid-level Network Engineer and Verification 
 **Cybersecurity & Vulnerability Assessment:**  
 - Vulnerability Assessment (Nessus)  
 - Cryptography & Secure Protocols (AES, RSA, TLS/SSL, SHA, MD5)
+- Securtiy and Event Management (ELasticSearch, Kibana)
 
 **Programming & Tools:**  
 - Python  
@@ -35,17 +36,10 @@ Welcome to my GitHub profile! I'm a mid-level Network Engineer and Verification 
 
 ## Projects
 
-### Vulnerability Assessment Using Nessus  
-- **Description:** Conducted vulnerability assessments on Windows, Kali Linux, and Metasploitable2 environments. Identified security gaps (e.g., unsafe firewall rules) and suggested remediation strategies.
-- **Technologies:** Nessus, Python, Network Security  
+### Automated Security Policy Recommendation System  
+- **Description:** Created a system that analyzes network firewall rules to identify potential misconfigurations or vulnerabilities. The generative AI layer will then output a natural language report recommending security improvements and policy updates.
+- **Technologies:** Python, GoogleAPI,Gemini 
 - [Link to Project Repository](#) *(Add link if available)*
-
-### Network Traffic Analysis with Wireshark  
-- **Description:** Analyzed network traffic to detect anomalies and unsafe patterns. Built dashboards for monitoring key security events.
-- **Technologies:** Wireshark, Python, Data Visualization  
-- [Link to Project Repository](#) *(Add link if available)*
-
-*(Feel free to add more projects as you build them!)*
 
 ---
 
