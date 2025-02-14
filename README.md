@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a mid-level Network Engineer and Verification 
 ### Automated Security Policy Recommendation System  
 - **Description:** Created a system that analyzes network firewall rules to identify potential misconfigurations or vulnerabilities. The generative AI layer will then output a natural language report recommending security improvements and policy updates.
 - **Technologies:** Python, GoogleAPI,Gemini 
-- [Link to Project Repository](#) *(Add link if available)*
+- [README.md](#) *(Add link if available)*
 
 ---
 
