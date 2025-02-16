@@ -38,8 +38,13 @@ Welcome to my GitHub profile! I'm a mid-level Network Engineer and Verification 
 
 ### Automated Security Policy Recommendation System  
 - **Description:** Created a system that analyzes network firewall rules to identify potential misconfigurations or vulnerabilities. The generative AI layer will then output a natural language report recommending security improvements and policy updates.
-- **Technologies:** Python, GoogleAPI,Gemini 
-- [https://github.com/ruchira1610/Automated-Security-Policy-Recommendation-System](#)
+- **Technologies:** Python, GoogleAPI,Gemini
+- https://github.com/ruchira1610/Automated-Security-Policy-Recommendation-System
+
+### Vulnerability-Assessment-on-Multi-Platform-Environments
+- **Description:** Nessus used to scan multiple platform - Kali, Metasploit and Windows. Identified and Analyzed Vulnerabilities.Provided remediation recommendations to improve overall system security.
+- **Technologies:** Nessus
+- https://github.com/ruchira1610/Vulnerability-Assessment-on-Multi-Platform-Environments 
 
 ---
 
